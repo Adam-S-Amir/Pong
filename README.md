@@ -1,4 +1,5 @@
-# Pong
-My recreation from scratch in pure JS of the retro classic, Pong!
-<hr>
+# Play
 [Play Now](https://adamtrex.azurewebsites.net/index.html)
+
+# Changes made by Magnus Marks
+[View Changes](https://github.com/MagnusMarx/Pong/commits/main)
